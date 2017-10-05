@@ -5,7 +5,7 @@ id,sayText,waitTime,image,nextId
 4,月は地球の周りを３０日に１周のペースで回っています。,2,,5
 5,では、地球はなんの周りを回っているのでしょうか？,2,,6
 6,正解は、、、太陽です。,2,https://github.com/yozzzo/src/raw/master/sun.jpg,7
-7,太陽の直径は地球の100倍にもなります。地球と太陽を並べるとこのようになります。,2,https://github.com/yozzzo/src/raw/master/sunAndMoon.jpg,8
+7,太陽の直径は地球の100倍にもなります。地球と太陽を並べるとこのようになります。,2,https://github.com/yozzzo/src/raw/master/sunAndEarth.jpg,8
 8,比べてみるととても大きいですね！,2,,9
 9,地球は太陽の周りをこのように回っています。,2,https://github.com/yozzzo/src/raw/master/kouten.gif,10
 10,それでは、地球は太陽のまわりを何日で一周するでしょうか？,2,,11
