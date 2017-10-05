@@ -1,5 +1,5 @@
 id,sayText,waitTime,image,nextId
-1,I speak about a heavenly body today.,2,,2
+1,I speak about a solar system today.,2,,2
 2,Look at this picture.,2,https://github.com/yozzzo/src/raw/master/moon.jpg,3
 3,This is a moon.,2,,4
 4,The month is going around the earth by the pace of the once per 30 days.,2,,5
@@ -11,7 +11,7 @@ id,sayText,waitTime,image,nextId
 10,Then in how many days would the earth tour around the sun?,2,,11
 11,Answer is the… 365days.,2,,12
 12,"The sun and the planet going around it are called the solar system together, but there are 7 planets going around the sun besides the earth altogether.",2,,13
-13," From the order near the sun,,,Mercury, Venus, Mars, Earth, Jupiter, Saturn, Uranus, and Neptune.",2,https://github.com/yozzzo/src/raw/master/solarSystem.png,14
+13,"From the order near the sun,,,Mercury, Venus, Mars, Earth, Jupiter, Saturn, Uranus, and Neptune.",2,https://github.com/yozzzo/src/raw/master/solarSystem.png,14
 14,You can remember My Very Educated Mother Just Served Us Nachos.,2,,15
 15,The length of the diameter is also 11 times more than the earth of Jupiter where it's here among these in the biggest planet.,2,https://github.com/yozzzo/src/raw/master/Jupiter.jpg,16
 16,"There is also a satellite in this Jupiter like a moon going around the global neighborhood, but how many would there be?",2,,17
